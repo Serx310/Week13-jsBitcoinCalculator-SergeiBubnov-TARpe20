@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+body{
+    background-image: url('../background.jpg');
+}
+
+h1{
+    color: aliceblue;
+}
+
+/* #mySelect{
+    background-color: black;
+} */
+
+.container{
+    display: inline-block;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: dotted 1px;
+}
+
+.currency{
+    color: white;
+}
